@@ -91,11 +91,39 @@ virtually $0 from our end and we think it'll let us scale where others haven't.
 
 ### Population to be served
 
-hackEDU's coding clubs serve high school students interested in learning coding
-at their schools. hackEDU currently serves approximately 1,500 students across
-11 states and 4 countries.
+hackEDU's coding clubs serve high school students, aged 13-18, who are
+interested in learning coding at their schools. hackEDU currently serves
+approximately 1,500 students across 11 states and 4 countries. Of those 1,500
+students, 32% are female and 38% are black or Hispanic.
 
 ### Organization Mission and History
+
+Our mission is to give every student the opportunity to experience the joys of
+coding regardless of their ethnicity, gender, or socioeconomic status. We
+believe coding is one of the most empowering things someone can learn and if
+we're able to accomplish our mission, tomorrow's citizens will be more empowered
+to create the change they want to see in the world. And that is a world we want
+to live in.
+
+We've been hard at work towards this mission and have made significant strides
+forward.
+
+Key points:
+
+- Spring 2014: Zach Latta starts hackEDU with a 7 school pilot
+- October 2014: Zach starts working on hackEDU full-time and Jonathan Leung
+  joins as a founder. Pilot is expanded to 26 schools.
+- April 2015: Pilot is expanded to 36 schools, reaching 1,300 students across 11
+  states and 2 countries. The Reva & David Logan Foundation joins as a
+  supporter.
+- Summer 2015: hackEDU runs four sessions of Hack Camp, its 2 week summer
+  program, to test new curriculum and a redesigned club experience. The final
+  session is led by high school club leaders from a guide created during the
+  previous sessions.
+- September 2015: The 2015 - 2016 school year starts and hackEDU starts strong
+  with 47 schools across 11 states and 4 countries. The Labs program starts,
+  where hackEDU works with 12 clubs to redesign the club experience from the
+  ground-up and build the Hack Club Playbook for all future clubs.
 
 ### Achievements and Challenges
 
