@@ -101,9 +101,9 @@ students, 32% are female and 38% are black or Hispanic.
 Our mission is to give every student the opportunity to experience the joys of
 coding regardless of their ethnicity, gender, or socioeconomic status. We
 believe coding is one of the most empowering things someone can learn and if
-we're able to accomplish our mission, tomorrow's citizens will be more empowered
-to create the change they want to see in the world. And that is a world we want
-to live in.
+everyone had the opportunity to learn, tomorrow's citizens will be more
+empowered to create the change they want to see in the world. And that is a
+world we want to live in.
 
 We've been hard at work towards this mission and have made significant strides
 forward.
@@ -120,7 +120,7 @@ Key points:
   program, to test new curriculum and a redesigned club experience. The final
   session is led by high school club leaders from a guide created during the
   previous sessions.
-- September 2015: The 2015 - 2016 school year starts and hackEDU starts strong
+- September 2015: The 2015 - 2016 school year begins and hackEDU starts strong
   with 47 schools across 11 states and 4 countries. The Labs program starts,
   where hackEDU works with 12 clubs to redesign the club experience from the
   ground-up and build the Hack Club Playbook for all future clubs.
@@ -129,6 +129,12 @@ Key points:
 
 _Tell us about your organization's achievements and challenges over the last
 three years._
+
+Over the past year we've grown from 7 schools across 6 states to 47 schools
+across 11 states and 4 countries. Where we previously used to help clubs
+manually in one-on-one calls, we've started building a Hack Club Playbook with
+the community to provide prewritten workshops and facilitation guidelines so
+each club doesn't need to reproduce work.
 
 ### Theoretical Rationale
 
