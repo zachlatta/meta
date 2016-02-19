@@ -372,24 +372,32 @@ _Please use approximate percentages to list the demographics of the youth that
 your proposed project will serve this year, such as age ranges, race/ethnicity,
 gender etc. For example, 25% boys, 75% girls._
 
-100% awesome
+We project our demographics in 2016 to mirror those in 2015, though we do plan
+on serving more young women. Our demographics in 2015 are as follows:
+
+- 32% women (compare with 20% female AP CS test takers)
+- 37% minorities in tech (compare with 13% African American/Hispanic AP CS test
+  takers in USA)
 
 **What are the anticipated results (objectives/outputs) for this project? (list
 up to 5)**
 
-- evolve hc to org that is built by students for students that has a global
-  presence
-- accessibility - equality across economic status
-- open source; self correcting/generating
+Our goal is to turn members of Hack Clubs into hackers: people who create what
+they see missing in the world and aren't afraid to break the rules. We'll know
+this is happening if:
+
+- Members are continuing to write code outside of Hack Club
+- Members are working on long-term projects and publishing them
+- Members are winning hackathons and other competitions
+- Members are hosting their own events (hackathons, meetups, etc)
 
 **How do you plan to measure and evaluate your results?**
 
-- kpi (key progress indicator)
-  - primary: # of clubs; # of members; # attritionn rate; diversity of members
+We'll continue to measure our primary KPIs: the number of clubs and the stories
+we're hearing from club leaders and members.
 
-In addition, once the organization grows to a certain level, it should continue
-to be an active online community, and the number of active clubs should continue
-to grow.
+Additionally, we'll begin measuring attendance of Hack Clubs week-to-week and
+their attrition rates.
 
 ### Sustainability and Scalability
 
