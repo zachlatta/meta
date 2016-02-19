@@ -328,9 +328,13 @@ Dot's 20 Under 20.
 **Who else will be involved with this project? Include relevant experience and
 recruitment strategy for additional program staff and/or volunteers.**
 
-Volunteers, club leaders that are part of the community.
+Zach is currently the only full-time member of Hack Club. There are a number of
+community members that are very active that Zach works closely with.
 
-**Why is this project needed in this community?*
+We plan to recruit staff through the networks of those involved in Hack Club.
+Volunteers are recruited through our existing club leader base.
+
+**Why is this project needed in this community?**
 
 There is a dearth of organizations in high schools that support computer science
 education. Since Hack Club is the first-to-market for coding clubs, we have a
