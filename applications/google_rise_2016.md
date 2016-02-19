@@ -430,7 +430,7 @@ program.
 **Does this project have a post-engagement strategy to keep students connected
 with computer science? If yes, please describe.**
 
-For most programs, we are the post-engagement strategy. Our clubs meet weekly or
+For many programs, we are the post-engagement strategy. Our clubs meet weekly or
 bi-weekly throughout the school year and we've received partnership interest
 from a variety of computer science summer programs wanting their students to
 start Hack Clubs after their program ends.
