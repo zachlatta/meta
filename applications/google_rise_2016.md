@@ -10,7 +10,7 @@ Hack Club
 
 **Organization full legal name**
 
-Hack Club
+N/A - Solely under fiscal sponsor
 
 **Organization website**
 
@@ -42,7 +42,7 @@ California
 
 **Organization EIN or charitable registration identification number**
 
-460945785
+460945785 (fiscal sponsor)
 
 **Does the organization have any connection to any government body or agency?**
 
@@ -81,8 +81,8 @@ Non-profit
 
 **Are you operating under a fiscal sponsor?**
 
-[X] Yes
-[ ] No
+- [X] Yes
+- [ ] No
 
 **If you are operating under a fiscal sponsor, please complete the following
 fields.**
@@ -123,11 +123,11 @@ Tyson Daugherty
 
 **Fiscal sponsor phone**
 
-[INSERT_LATER]
+[REDACTED]
 
 **Fiscal sponsor contact email address**
 
-[INSERT_LATER]
+[REDACTED]
 
 **List of Board of Directors/Advisory Board members and affiliations (or provide
 a link)**
@@ -147,7 +147,7 @@ Advisory board:
 
 **Number of staff employed by the organization**
 
-1
+One full-time, we've hired a number of contractors
 
 **In what year was your organization founded?**
 
@@ -155,7 +155,7 @@ Advisory board:
 
 **Number of youth reached by organization in 2015**
 
-1,500+
+1,500
 
 **Demographics of youth reached by organization in 2015**
 
@@ -172,15 +172,17 @@ etc. For example, 25% boys, 75% girls._
 We've taken Hack Club from an idea attempted at a single high school to the
 beginning of an international movement in 70 schools across 16 states and 7
 countries (just started a club in Pakistan!). We've helped start clubs at
-schools in a variety of socioeconomic situations, from schools that are
+schools in a variety of socioeconomic situations---from schools that are
 upper-middle class with access to lots of resources to schools that have been
 labeled "dropout factories".
 
-We've our content significantly and are now at the point where we have a "club
-in a box" to start clubs with.
+We've developed our content significantly and are now at the point where we have
+a "club in a box"---including curriculum, meeting guidelines, and
+slideshows---to start clubs with.
 
 We did our first fundraise, bringing in $165,765.00 from the Reva & David Logan
-Foundation, Joe Lonsdale, the Thiel Foundation, among many other contributors.
+Foundation, Joe Lonsdale, the Thiel Foundation, among many other generous
+supporters.
 
 We've been featured on the TODAY Show, in the cover story of the California
 Sunday, in the Daily Dot's 20 Under 20, in Business Insider, and in the Forbes
@@ -189,7 +191,8 @@ reach of 23 million people.
 
 **Total organizational budget in 2016**
 
-We spent $55,720.73 in 2015. We're expecting to spend $250k in 2016.
+We spent $55,720.73 in 2015. As we begin to expand our team, we're expecting to
+spend $200k in 2016.
 
 **What makes your organization unique, innovative, and/or sets you apart from
 other groups doing similar work?**
@@ -198,20 +201,20 @@ Our clubs and content are built and run by students, for students.
 
 By having high schoolers lead clubs, we're able to bypass the red tape typically
 associated with bringing computer science to a school or a community. Where it
-can take years to start a new computer science club, starting a Hack Club can
+can take years to start a new computer science program, starting a Hack Club can
 take as little as two weeks. Our leaders don't need to find their own space (the
 school is their space), recruit external volunteers (their friends are
-volunteers), or hire teachers (they use our pre-written workshops). This model
-makes the cost of starting a new club virtually $0 from our end and we think
-it'll let us scale where others haven't.
+volunteers), or hire teachers (they teach using our pre-written workshops). This
+model makes the cost of starting a new club virtually $0 from our end and we
+think it'll let us scale where others haven't.
 
 Our content is entirely open source and designed for community contribution.
 While we're still in the early stages of driving community contributions, half
-of our curriculum has been entirely built by the community. Having our content
-open source and accessible to contribution has the advantage of being
-self-correcting and continuously improved by club leaders and members.
+of our curriculum has been built by the community. Having our content open
+source and accessible to contribution has the advantage of being self-correcting
+and continuously improved by club leaders and members.
 
-Additionally, our curriculum isn't built to teach people how to program:
+In terms of pedagogy, our curriculum isn't built to teach people how to program:
 it's built to help our club members become self-taught programmers. Instead of
 starting by teaching the fundamentals, we throw our members in at the deep end
 by having them build real projects and use Google when they get stuck. By the
@@ -243,7 +246,7 @@ zach@hackclub.com
 
 **Primary contact telephone number (including international country code)**
 
-[TODO]
+[REDACTED]
 
 ### About the Project
 
@@ -262,9 +265,9 @@ the globe.
 
 **Detailed project description (include all activities):**
 
-We would like RISE to fund the continued expansion of Hack Club. Specifically,
-we're looking to bring someone on full-time to lead the development of our
-curriculum with the community.
+We would like RISE to fund the continued expansion of Hack Club during 2016.
+Specifically, we're looking to bring someone on full-time to lead the
+development of our curriculum with the community.
 
 To expand on what Hack Club does:
 
@@ -275,8 +278,8 @@ this application:**
 
 - [ ] Summer or holiday program (like a camp or school)
 - [ ] Teacher training/workshops
-- [X] Club
-- [ ] Afterschool program
+- [ ] Club
+- [X] Afterschool program
 - [ ] Weekend program
 - [ ] Mentoring
 - [ ] Family workshop
@@ -294,11 +297,11 @@ Salary for curriculum lead
 
 **Project start date**
 
-March-April 2016
+01.01.16
 
 **Project end date**
 
-Undefined
+12.31.16
 
 **Please describe the key milestones/deliverables and timeline for this
 project.**
@@ -327,11 +330,10 @@ Volunteers, club leaders that are part of the community.
 
 **Why is this project needed in this community?*
 
-There is a dearth of organizations that are by students for students. Since Hack
-Club is the first-to-market of these for coding clubs, we have a very unique
-opportunity to build the organization that we have always wished existed, and
-even more importantly, the curriculum that we want to exist in computer science
-education.
+There is a dearth of organizations in high schools that support computer science
+education. Since Hack Club is the first-to-market for coding clubs, we have a
+very unique opportunity to build the organization that we have always wished
+existed -- one that is built by students, for students.
 
 ### Impact
 
@@ -340,7 +342,7 @@ education project if you receive funding from the RISE Awards.
 
 **Local town (specify)**
 
-N/A - national/international project
+N/A - National/international project
 
 **Country (specify)**
 
@@ -355,9 +357,8 @@ Focused on North America, but we are international
 Other organizations that follow our model (DECA, FBLA, Key Club, etc) typically
 reach between 100,000 and 300,000 students each year.
 
-That said, these are organizations that only have a presence in the USA. Since
-Hack Club is international, we hope we can eventually expand our reach to the
-millions.
+These organizations only have a presence in the USA. Since Hack Club is
+international, we hope we can eventually expand our reach to the millions.
 
 **Projected demographics of the youth reached by this project**
 
@@ -392,23 +393,23 @@ context of your organization.
 **What is the purpose of your proposal?**
 
 - [ ] Create or add a new program to the organization
-- [ ] Expand an existing program to more students, a new population, or a new
+- [X] Expand an existing program to more students, a new population, or a new
   geography
 - [ ] Secure funding for an existing program
 - [ ] Other
 
 **How do you plan to sustain your project beyond 2016 and beyond this grant?**
 
-More grants.
+Regional grant pipeline
 
 **Does this project have a post-engagement strategy to keep students connected
 with computer science? If yes, please describe.**
 
-We are the post-engagement strategy. Our clubs meet weekly or bi-weekly
-throughout the school year and we've received partnership interest from a
-variety of computer science summer programs wanting their students to start Hack
-Clubs after their program ends.
+For most programs, we are the post-engagement strategy. Our clubs meet weekly or
+bi-weekly throughout the school year and we've received partnership interest
+from a variety of computer science summer programs wanting their students to
+start Hack Clubs after their program ends.
 
-For the summer, when our clubs are out of session, we hope to partner with the
-aforementioned summer programs and eventually run our own hackathons to
-continually engage our members.
+During the summer, when our clubs are out of session, we hope to partner with
+summer programs and eventually run our own hackathons to continually engage our
+members.
