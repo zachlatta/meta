@@ -42,7 +42,7 @@ California
 
 **Organization EIN or charitable registration identification number**
 
-460945785 (fiscal sponsor)
+0000
 
 **Does the organization have any connection to any government body or agency?**
 
