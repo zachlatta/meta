@@ -314,14 +314,16 @@ curriculum, which will be led by the curriculum lead we hire.
 
 **Who will be leading this project? Include the title and relevant experience.**
 
-Zachary Latta, Executive Director of Hack Club.
+Zach Latta, Executive Director of Hack Club.
 
-A former club leader himself, Latta began Hack Club after he realized how much
-of an impact finding peers and forming a coding community made on him in terms
-of confidence, mentorship, and impetus to improve. Having run Hack Club for over
-a year now, Latta has experience writing curriculum and running workshops.
+Zach started Hack Club after he started a coding club at his high school and
+wanted to be part of something larger than his school. Before working on Hack
+Club full-time, Zach built the backend architecture for Yo -- an app with more
+than 3 million users. Prior to that, he was a programmer of Football Heroes, a
+game with over a million users.
 
-what am i writing
+Zach is a Thiel Fellow, part of the 2016 Forbes 30 Under 30, and part of Daily
+Dot's 20 Under 20.
 
 **Who else will be involved with this project? Include relevant experience and
 recruitment strategy for additional program staff and/or volunteers.**
