@@ -414,7 +414,18 @@ context of your organization.
 
 **How do you plan to sustain your project beyond 2016 and beyond this grant?**
 
-Regional grant pipeline
+Grants and company sponsorships. We plan to continue to keep Hack Clubs free for
+students by not collecting membership dues.
+
+We're thinking about building a regional grant pipeline: a process for
+consistently applying and winning grants in areas we have clubs. We're still in
+the ideation phase for this.
+
+Other ideas include creating a Hack Club gap year, where club members and
+leaders could apply to take a gap year before college and work on Hack Club.
+Fellowships would be sponsored by companies and foundations. We've received
+preliminary interest from companies interested in sponsoring this sort of
+program.
 
 **Does this project have a post-engagement strategy to keep students connected
 with computer science? If yes, please describe.**
