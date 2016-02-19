@@ -1,6 +1,6 @@
-# Google Rise
+# Google RISE
 
-Hack Club's application to Google Rise.
+Hack Club's application to the Google RISE Awards.
 
 ## Organization Information
 
@@ -168,7 +168,7 @@ etc. For example, 25% boys, 75% girls._
 **What were the organization's major achievements in the past year?**
 
 We've taken Hack Club from an idea attempted at a single high school to the
-beginning of an international movement in 70 schools across 16 states and 7
+beginnings of an international movement in 70 schools across 16 states and 7
 countries (just started a club in Pakistan!). We've helped start clubs at
 schools in a variety of socioeconomic situations---from schools that are
 upper-middle class with access to lots of resources to schools that have been
@@ -271,23 +271,25 @@ their first 4-6 months.
 To expand on what Hack Club does:
 
 We provide everything high schoolers need to start amazing coding clubs: meeting
-guidelines, curriculum, and template slideshows. Club meetings are run in pairs
-and are like mini-hackathons: the first meeting kicks off with a workshop and
-the second culminates in demos. Members are shipping something in every meeting
-(whether from a workshop or from what they built for the mini-hackathon). By the
-end of the first meeting, everyone has built and deployed their first website
-from a workshop. By the end of the second, they've expanded on it and demoed it.
-By the end of the third, everyone's built a website that can call and text their
-phone (again, from a workshop). By the end of the fourth, they've expanded on it
-and demoed it. And so on.
+guidelines, curriculum, template slideshows, and a supportive community of
+leaders around the globe.
+
+Club meetings are run in pairs and are like mini-hackathons: the first meeting
+in the pair kicks off with a workshop and the second culminates in demos.
+Members are shipping something in every meeting, whether from a workshop or from
+what they built for the mini-hackathon. By the end of the first meeting,
+everyone has built and deployed their first website from a workshop. By the end
+of the second, they've expanded on it and demoed it. By the end of the third,
+everyone's built a website that can call and text their phone (again, from a
+workshop). By the end of the fourth, they've expanded on it and demoed it. And
+so on.
 
 Our workshops are written documents focused on web development that are meant
 for members to follow at their own pace. No lectures and a heavy emphasis on
 using Google to figure things out.
 
-In addition to our content, we have weekly calls set up with every fledgling
-club to set weekly objectives to get them on the right track. As we continue to
-grow, we hope to distribute these calls across the community.
+When fledgling leaders get stuck, we have weekly calls and the community for
+them to lean on.
 
 **Which of the following formats best describes the project you are proposing in
 this application:**
@@ -309,7 +311,7 @@ $20,000
 
 _How will funding from RISE be spent?_
 
-Salary for curriculum lead
+Salary for curriculum lead during 2016
 
 **Project start date**
 
@@ -345,18 +347,19 @@ Dot's 20 Under 20.
 **Who else will be involved with this project? Include relevant experience and
 recruitment strategy for additional program staff and/or volunteers.**
 
-Zach is currently the only full-time member of Hack Club. There are a number of
-community members that are very active that Zach works closely with.
+Zach is currently the only full-time staff for Hack Club. There are a number of
+community members that are very active that Zach works closely with and will
+continue to during 2016.
 
-We plan to recruit staff through the networks of those involved in Hack Club.
-Volunteers are recruited through our existing club leader base.
+We plan to recruit staff through the networks of our supporters, friends, and
+club leaders. Volunteers are recruited through our existing club leader base.
 
 **Why is this project needed in this community?**
 
 There is a dearth of organizations in high schools that support computer science
-education. Since Hack Club is the first-to-market for coding clubs, we have a
-very unique opportunity to build the organization that we have always wished
-existed -- one that is built by students, for students.
+education. Since Hack Club is the first-to-market for high school coding clubs,
+we have a very unique opportunity to build the organization that we always
+wished existed -- one that is built and sustained by students, for students.
 
 ### Impact
 
@@ -381,7 +384,7 @@ Other organizations that follow our model (DECA, FBLA, Key Club, etc) typically
 reach between 100,000 and 300,000 students each year.
 
 These organizations only have a presence in the USA. Since Hack Club is
-international, we hope we can eventually expand our reach to the millions.
+international, we hope to eventually expand our reach to the millions.
 
 **Projected demographics of the youth reached by this project**
 
@@ -433,9 +436,9 @@ context of your organization.
 Grants and company sponsorships. We plan to continue to keep Hack Clubs free for
 students by not collecting membership dues.
 
-We're thinking about building a regional grant pipeline: a process for
-consistently applying and winning grants in areas we have clubs. We're still in
-the ideation phase for this.
+We're thinking about building a regional grant pipeline: a data-driven process
+for consistently applying and winning grants in areas we have clubs. We're still
+in the ideation phase for this.
 
 Other ideas include creating a Hack Club gap year, where club members and
 leaders could apply to take a gap year before college and work on Hack Club.
