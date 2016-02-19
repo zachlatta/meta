@@ -267,7 +267,8 @@ the globe.
 
 We would like RISE to fund the continued expansion of Hack Club during 2016.
 Specifically, we're looking to bring someone on full-time to lead the
-development of our curriculum with the community.
+development of our curriculum and would like RISE to fund their salary during
+their first 4-6 months.
 
 To expand on what Hack Club does:
 
