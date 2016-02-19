@@ -285,9 +285,9 @@ Our workshops are written documents focused on web development that are meant
 for members to follow at their own pace. No lectures and a heavy emphasis on
 using Google to figure things out.
 
-In addition to our content, we have weekly calls set up with every fledging club
-to set weekly objectives to get them on the right track. As we continue to grow,
-we hope to distribute these calls across the community.
+In addition to our content, we have weekly calls set up with every fledgling
+club to set weekly objectives to get them on the right track. As we continue to
+grow, we hope to distribute these calls across the community.
 
 **Which of the following formats best describes the project you are proposing in
 this application:**
