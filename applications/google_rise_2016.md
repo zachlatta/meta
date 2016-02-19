@@ -336,9 +336,10 @@ Zach Latta, Executive Director of Hack Club.
 
 Zach started Hack Club after he started a coding club at his high school and
 wanted to be part of something larger than his school. Before working on Hack
-Club full-time, Zach built the backend architecture for Yo -- an app with more
-than 3 million users. Prior to that, he was a programmer of Football Heroes, a
-game with over a million users.
+Club full-time, Zach led the development of the backend for Yo -- an app with
+more than 3 million users. Prior to that, he was a programmer of Football Heroes
+and helped bring it from a prototype to launching on the App Store, getting #1
+in the games category and over a million users.
 
 Zach is a Thiel Fellow, part of the 2016 Forbes 30 Under 30, and part of Daily
 Dot's 20 Under 20.
