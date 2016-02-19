@@ -285,11 +285,11 @@ workshop). By the end of the fourth, they've expanded on it and demoed it. And
 so on.
 
 Our workshops are written documents focused on web development that are meant
-for members to follow at their own pace. No lectures and a heavy emphasis on
-using Google to figure things out.
+for members to follow at their own pace. There aren't any lectures and we have a
+heavy emphasis on using Google to figure things out.
 
-When fledgling leaders get stuck, we have weekly calls and the community for
-them to lean on.
+We also have weekly calls and our 24/7 online community for fledgling leaders to
+lean on in any event.
 
 **Which of the following formats best describes the project you are proposing in
 this application:**
