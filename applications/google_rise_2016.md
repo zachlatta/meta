@@ -71,8 +71,8 @@ club leaders with open-source materials for starting clubs and with a supportive
 community of leaders around the globe.
 
 Our clubs have gone on to host hackathons with hundreds of participants, build
-games to destigmatize sex education, and bring coding education to traditionally
-underserved and underrepresented communities.
+projects to impact their local communities, and bring coding education to
+traditionally underserved and underrepresented communities.
 
 **Organization Legal Status (if other please state)**
 
