@@ -63,7 +63,7 @@ we believe coding is one of the most empowering things someone can learn. If
 we're able to accomplish this, not only does that mean a larger and more diverse
 technology workforce, but it means living in a more empowered world where more
 people create the change they want to see. And that is a world we want to live
-in
+in.
 
 **Brief description of the organization**
 
