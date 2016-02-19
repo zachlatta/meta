@@ -194,13 +194,7 @@ We spent $55,720.73 in 2015. We're expecting to spend $250k in 2016.
 **What makes your organization unique, innovative, and/or sets you apart from
 other groups doing similar work?**
 
-Our content and our clubs are built and run by students, for students.
-
-Our content is entirely open source and designed for community contribution.
-While we're still in the early stages of driving community contributions, half
-of our curriculum has been entirely built by the community. Having our content
-open source and accessible to contribution has the advantage of being
-self-correcting and continuously improved by club leaders and members.
+Our clubs and content are run and built by students, for students.
 
 By having high schoolers lead clubs, we're able to bypass the red tape typically
 associated with bringing computer science to a school or a community. Where it
@@ -211,7 +205,13 @@ volunteers), or hire teachers (they use our pre-written workshops). This model
 makes the cost of starting a new club virtually $0 from our end and we think
 it'll let us scale where others haven't.
 
-Last notable thing: our curriculum isn't built to teach people how to program:
+Our content is entirely open source and designed for community contribution.
+While we're still in the early stages of driving community contributions, half
+of our curriculum has been entirely built by the community. Having our content
+open source and accessible to contribution has the advantage of being
+self-correcting and continuously improved by club leaders and members.
+
+Additionally, our curriculum isn't built to teach people how to program:
 it's built to help our club members become self-taught programmers. Instead of
 starting by teaching the fundamentals, we throw our members in at the deep end
 by having them build real projects and use Google when they get stuck. By the
