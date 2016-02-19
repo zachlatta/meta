@@ -164,8 +164,7 @@ your organization served last year, such as age ranges, race/ethnicity, gender
 etc. For example, 25% boys, 75% girls._
 
 - 32% women (compare with 20% female AP CS test takers)
-- 37% minorities in tech (compare with 13% African American/Hispanic AP CS test
-  takers in USA)
+- 37% black/Hispanic (compare with 13% black/Hispanic AP CS test takers in USA)
 
 **What were the organization's major achievements in the past year?**
 
@@ -395,8 +394,7 @@ We project our demographics in 2016 to mirror those in 2015, though we do plan
 on serving more young women. Our demographics in 2015 are as follows:
 
 - 32% women (compare with 20% female AP CS test takers)
-- 37% minorities in tech (compare with 13% African American/Hispanic AP CS test
-  takers in USA)
+- 37% black/Hispanic (compare with 13% black/Hispanic AP CS test takers in USA)
 
 **What are the anticipated results (objectives/outputs) for this project? (list
 up to 5)**
