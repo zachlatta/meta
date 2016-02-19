@@ -272,7 +272,24 @@ their first 4-6 months.
 
 To expand on what Hack Club does:
 
-[TODO]
+We provide everything high schoolers need to start amazing coding clubs: meeting
+guidelines, curriculum, and template slideshows. Club meetings are run in pairs
+and are like mini-hackathons: the first meeting kicks off with a workshop and
+the second culminates in demos. Members are shipping something in every meeting
+(whether from a workshop or from what they built for the mini-hackathon). By the
+end of the first meeting, everyone has built and deployed their first website
+from a workshop. By the end of the second, they've expanded on it and demoed it.
+By the end of the third, everyone's built a website that can call and text their
+phone (again, from a workshop). By the end of the fourth, they've expanded on it
+and demoed it. And so on.
+
+Our workshops are written documents focused on web development that are meant
+for members to follow at their own pace. No lectures and a heavy emphasis on
+using Google to figure things out.
+
+In addition to our content, we have weekly calls set up with every fledging club
+to set weekly objectives to get them on the right track. As we continue to grow,
+we hope to distribute these calls across the community.
 
 **Which of the following formats best describes the project you are proposing in
 this application:**
