@@ -340,19 +340,24 @@ education project if you receive funding from the RISE Awards.
 
 **Local town (specify)**
 
-San Francisco
+N/A - national/international project
 
 **Country (specify)**
 
-United States
+Focused on the USA, but we are also starting international clubs
 
 **Region (specify)**
 
-North America
+Focused on North America, but we are international
 
 **Projected total number of youth served by this project**
 
-Infinite; the organization is expected to continue impacting youth indefinitely
+Other organizations that follow our model (DECA, FBLA, Key Club, etc) typically
+reach between 100,000 and 300,000 students each year.
+
+That said, these are organizations that only have a presence in the USA. Since
+Hack Club is international, we hope we can eventually expand our reach to the
+millions.
 
 **Projected demographics of the youth reached by this project**
 
