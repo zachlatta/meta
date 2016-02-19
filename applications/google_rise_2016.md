@@ -194,7 +194,7 @@ We spent $55,720.73 in 2015. We're expecting to spend $250k in 2016.
 **What makes your organization unique, innovative, and/or sets you apart from
 other groups doing similar work?**
 
-Our clubs and content are run and built by students, for students.
+Our clubs and content are built and run by students, for students.
 
 By having high schoolers lead clubs, we're able to bypass the red tape typically
 associated with bringing computer science to a school or a community. Where it
